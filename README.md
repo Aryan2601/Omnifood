@@ -5,7 +5,7 @@
 
 #### Omnifood is a website for company named omnifood. this website is used by company for showing company details and information of company.This includes places where they have layout and how to download the app and many other things.
 
-## Languages used :book: :book:
+## Languages used :book: :book: :book:
 
 ### :pushpin: HTML
 ### :pushpin: CSS
